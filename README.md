@@ -1,4 +1,4 @@
-# Landing page
+# Landing page deliverables
 1. Navigation
 2. Banner (Motto - Campus Image)
 3. Who we are (HeadTeachers image - History)
